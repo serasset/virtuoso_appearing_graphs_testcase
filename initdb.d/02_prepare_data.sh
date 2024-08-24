@@ -1,0 +1,1 @@
+/bin/bash ../initdb.d/02_prepare_data.bash
