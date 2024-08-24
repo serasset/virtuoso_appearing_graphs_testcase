@@ -5,7 +5,7 @@ How to reproduce the bug
 2. Prepare the RAW DBNARY DATA to be uploaded in your virtuoso instance:
   ```bash
 export DBNARY_LANGUAGES="fr en de pt it fi ru el tr ja es bg pl nl sh sv lt no mg id la ku zh ga ca"
-export DBNARY_ALL_MODELS="ontolex morphology enhancements exolex_ontolex exolex_morphology"
+export DBNARY_MODELS="ontolex morphology enhancements exolex_ontolex exolex_morphology"
 ./prepare_dbnary_data.sh
 ```
 You may remove some language and models to reduce the DB size and loading time... but if you later want to increase the number of language fetch all of them (you'll be able to reduce the number effectivemy loaded)
