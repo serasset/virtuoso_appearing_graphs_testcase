@@ -9,6 +9,7 @@ export DBNARY_MODELS="ontolex morphology enhancements exolex_ontolex exolex_morp
 ./prepare_dbnary_data.sh
 ```
 You may remove some language and models to reduce the DB size and loading time... but if you later want to increase the number of language fetch all of them (you'll be able to reduce the number effectivemy loaded)
+
 3. start the virtuoso server with docker:
 ```bash
 ./start.sh
@@ -16,7 +17,9 @@ You may remove some language and models to reduce the DB size and loading time..
 
 Your http server will be bound to port 8998 (so that it won't conflict with an eventual existing server), to ease debugging, you can bind the 8998 port to 8890 on your client machine using ssh.
 
+4. put some pressure to the server by replaying real http connection received in deployment
 
+ 
 
 
 
