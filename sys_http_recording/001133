@@ -1,0 +1,18 @@
+GET /fct/rdfdesc/usage.vsp?g=http%3A%2F%2Ftoolbarqueries.google.com.sa%2Furl%3Fsa%3Dt%26url%3Dhttps%3A%2F%2Fsehatkhabar.ir%2F HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Referer: http://klub-masterov.by/?URL=http%3A%2F%2Fkaiko.getalp.org%2Ffct%2Frdfdesc%2Fusage.vsp%3Fg%3Dhttp%253A%252F%252Ftoolbarqueries.google.com.sa%252Furl%253Fsa%253Dt%2526url%253Dhttps%253A%252F%252Fsehatkhabar.ir%252F
+Origin: http://klub-masterov.by
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+sec-ch-ua-mobile: ?0
+sec-gpc: 1
+sec-ch-ua-platform: "Windows"
+X-Forwarded-For: 188.40.183.18
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

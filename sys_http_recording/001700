@@ -1,0 +1,16 @@
+GET /fct/rdfdesc/settings.vsp?uri=nodeID%3A%2F%2Fb17321549 HTTP/1.1
+Host: localhost:8890
+User-Agent: Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; spider-feedback@bytedance.com)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/heif,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US,en;q=0.5
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+X-Forwarded-For: 111.225.148.74
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

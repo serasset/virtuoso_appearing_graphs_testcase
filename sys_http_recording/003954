@@ -1,0 +1,14 @@
+GET /fct/rdfdesc/usage.vsp?g=http%3A%2F%2Fwin.gist.it%2FContaClick.asp%3Fid%3D1040%26sito%3DWww.Shutterstock.com%252Fvideo%252Fclip-3433611763-perfect-video-greeting-cards-wedding-invitations-floral HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:114.0) Gecko/20100101 Firefox/114.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Referer: http://m.yeskorea.org/member/login.html?returnUrl=http%3A%2F%2Fkaiko.getalp.org%2Ffct%2Frdfdesc%2Fusage.vsp%3Fg%3Dhttp%253A%252F%252Fwin.gist.it%252FContaClick.asp%253Fid%253D1040%2526sito%253DWww.Shutterstock.com%25252Fvideo%25252Fclip-3433611763-perfect-video-greeting-cards-wedding-invitations-floral
+Origin: http://m.yeskorea.org
+X-Forwarded-For: 88.198.230.75
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

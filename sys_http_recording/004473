@@ -1,0 +1,14 @@
+GET /fct/rdfdesc/usage.vsp?g=http://kentfaliju.blogspot.com HTTP/1.1
+Host: kaiko.getalp.org
+Cache-Control: no-cache
+Pragma: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Referer: http://kaiko.getalp.org/fct/rdfdesc/usage.vsp?g=http://kentfaliju.blogspot.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.2848.471 Safari/537.36
+X-Forwarded-For: 36.226.208.169
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

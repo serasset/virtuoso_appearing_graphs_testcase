@@ -1,0 +1,10 @@
+GET /describe/?url=http%3A%2F%2Fkaiko.getalp.org%2Fdbnary/bul/%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+Accept: */*
+Accept-Encoding: deflate, gzip, br
+X-Forwarded-For: 54.36.148.82
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

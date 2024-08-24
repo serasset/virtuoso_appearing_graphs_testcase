@@ -1,0 +1,9 @@
+GET /isparql/view/?query=define%20sql%3Adescribe-mode%20%22SPO%22%20DESCRIBE%20%3Chttp%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Fspa%2Fmansuefacto__adjetivo__1%3E&resultview=browser HTTP/1.1
+Host: kaiko.getalp.org
+Accept: */*
+User-Agent: meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)
+X-Forwarded-For: 2a03:2880:27ff:2::face:b00c
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

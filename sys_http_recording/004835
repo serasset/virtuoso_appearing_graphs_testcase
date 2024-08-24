@@ -1,0 +1,18 @@
+GET /fct/rdfdesc/usage.vsp?g=http%3A%2F%2Ff1comp.ru%2Fcatalog%2Fredirect.php%3Faction%3Durl%26goto%3D%2F%2Fpurejapan.org%252Fcgi-bin%252Fa2%252Fout.cgi%253Fid%253D15%2526u%253Dhttps%253A%252F%252Fwww.jr-rollformingmachines.com HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Referer: http://cse.google.co.ve/url?q=http%3A%2F%2Fkaiko.getalp.org%2Ffct%2Frdfdesc%2Fusage.vsp%3Fg%3Dhttp%253A%252F%252Ff1comp.ru%252Fcatalog%252Fredirect.php%253Faction%253Durl%2526goto%253D%252F%252Fpurejapan.org%25252Fcgi-bin%25252Fa2%25252Fout.cgi%25253Fid%25253D15%252526u%25253Dhttps%25253A%25252F%25252Fwww.jr-rollformingmachines.com
+Origin: http://cse.google.co.ve
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+sec-ch-ua-mobile: ?0
+sec-gpc: 1
+sec-ch-ua-platform: "macOS"
+X-Forwarded-For: 45.136.119.53
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

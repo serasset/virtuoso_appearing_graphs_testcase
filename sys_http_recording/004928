@@ -1,0 +1,19 @@
+GET /fct/rdfdesc/usage.vsp?g=https%3A%2F%2Fwww.divandi.ru%2Fox%2Fwww%2Fdelivery%2Fck.php%3Fct%3D1%26oaparams%3D2__bannerid%3D107__zoneid%3D66__cb%3D07184aa302__oadest%3Dhttps%3A%2F%2Fjaya9.biz%2F HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/22.7.0 Yowser/2.5 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Origin: https://chaehyun.kr
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+sec-ch-ua-mobile: ?0
+sec-gpc: 1
+sec-ch-ua-platform: "Windows"
+Via: 1.0 right-connected (squid/4.10)
+X-Forwarded-For: 69.46.25.141, 185.191.236.162
+Cache-Control: max-age=0
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

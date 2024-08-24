@@ -1,0 +1,9 @@
+GET /sparql?query=define%20sql%3Adescribe-mode%20%22CBD%22%20%20DESCRIBE%20%3Chttp%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Ffin%2Fkellokatkero__Substantiivi__1%3E&output=application%2Fatom%2Bxml HTTP/1.1
+Host: kaiko.getalp.org
+Accept: */*
+User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+X-Forwarded-For: 2a03:2880:13ff:16::face:b00c
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

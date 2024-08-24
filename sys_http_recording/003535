@@ -1,0 +1,10 @@
+GET /sparql?output=text%2Fplain&query=define+sql%3Adescribe-mode+%22CBD%22++DESCRIBE+%3Chttp%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Fzho%2F__tr_spa_1_%E5%88%86%E9%A1%9E%E5%AD%B8__%E5%90%8D%E8%A9%9E__1%3E HTTP/1.1
+Host: kaiko.getalp.org
+accept: */*
+user-agent: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+accept-encoding: gzip, br, zstd, deflate
+X-Forwarded-For: 18.118.93.94
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

@@ -1,0 +1,18 @@
+GET /fct/rdfdesc/usage.vsp?g=https%3A%2F%2Faudioz.download%2Faway.php%3Fx%26url%3DaHR0cDovL2hhbW1qYW1tZXJ5LmNvbS9fX21lZGlhX18vanMvbmV0c29sdHJhZGVtYXJrLnBocD9kPWFkdmFuYWNlbWFyay5jb20lMkZfX21lZGlhX18lMkZqcyUyRm5ldHNvbHRyYWRlbWFyay5waHAlM0ZkJTNEdHJ1c3Rzb2x1dGlvbjEwMS5ibG9nc3BvdC5jb20lMjUyRjIwMjQlMjUyRjA3JTI1MkZqYXZhLWJ1cm4td2F0Y2gtdGhpcy1qYXZhLWJ1cm4tY29mZmVlLmh0bWw HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/22.7.0 Yowser/2.5 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Referer: http://mgs.md/bitrix/redirect.php?goto=http%3A%2F%2Fkaiko.getalp.org%2Ffct%2Frdfdesc%2Fusage.vsp%3Fg%3Dhttps%253A%252F%252Faudioz.download%252Faway.php%253Fx%2526url%253DaHR0cDovL2hhbW1qYW1tZXJ5LmNvbS9fX21lZGlhX18vanMvbmV0c29sdHJhZGVtYXJrLnBocD9kPWFkdmFuYWNlbWFyay5jb20lMkZfX21lZGlhX18lMkZqcyUyRm5ldHNvbHRyYWRlbWFyay5waHAlM0ZkJTNEdHJ1c3Rzb2x1dGlvbjEwMS5ibG9nc3BvdC5jb20lMjUyRjIwMjQlMjUyRjA3JTI1MkZqYXZhLWJ1cm4td2F0Y2gtdGhpcy1qYXZhLWJ1cm4tY29mZmVlLmh0bWw
+Origin: http://mgs.md
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+sec-ch-ua-mobile: ?0
+sec-gpc: 1
+sec-ch-ua-platform: "Windows"
+X-Forwarded-For: 75.237.215.19
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

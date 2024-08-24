@@ -1,0 +1,12 @@
+GET /fct/rdfdesc/usage.vsp?g=cutt.ly/jJLZtQM/ HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5615.87 Safari/537.36
+Accept: */*
+Accept-Encoding: gzip
+Via: 1.1 SQUID-001-STEPCRAWL-ALIYUN (squid/6.9)
+X-Forwarded-For: 10.52.32.151, 47.238.13.12
+Cache-Control: max-age=0
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

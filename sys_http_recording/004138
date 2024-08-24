@@ -1,0 +1,17 @@
+GET /fct/rdfdesc/usage.vsp?g=https://fatallisto.com/story7572625/parbriz HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1264.71
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Origin: https://images.google.dk
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+sec-ch-ua-mobile: ?0
+sec-gpc: 1
+sec-ch-ua-platform: "macOS"
+X-Forwarded-For: 89.42.201.131
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

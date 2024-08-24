@@ -1,0 +1,18 @@
+GET /fct/rdfdesc/usage.vsp?g=https%3A%2F%2Fgateway.perfectview.nl%2FGateway%3FId%3D1030636f88f2-0a21-461b-b266-2f9b46e7cf3706fa1313-72c0-4aea-bc0a-47340df2f25bbabb2366-067a-4fc9-8349-f3fdb7e715bahttps%253A%252F%252Fduniasepakball.blogspot.com HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Vivaldi/5.3.2679.68
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Referer: http://yousui.net/therapy/i/index.cgi?mode=redirect&url=http%3A%2F%2Fkaiko.getalp.org%2Ffct%2Frdfdesc%2Fusage.vsp%3Fg%3Dhttps%253A%252F%252Fgateway.perfectview.nl%252FGateway%253FId%253D1030636f88f2-0a21-461b-b266-2f9b46e7cf3706fa1313-72c0-4aea-bc0a-47340df2f25bbabb2366-067a-4fc9-8349-f3fdb7e715bahttps%25253A%25252F%25252Fduniasepakball.blogspot.com
+Origin: http://yousui.net
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+sec-ch-ua-mobile: ?0
+sec-gpc: 1
+sec-ch-ua-platform: "Windows"
+X-Forwarded-For: 125.77.25.178
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

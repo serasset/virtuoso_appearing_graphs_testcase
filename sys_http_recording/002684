@@ -1,0 +1,14 @@
+GET /fct/rdfdesc/usage.vsp?g=https://www.aop.bg/portal-redirect.php?url=68747470733A2F2F6B69736469636F6E666572656E63652E6B722F323032322F6262732F626F6172642E7068703F626F5F7461626C653D667265652677725F69643D32343330313638 HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:114.0) Gecko/20100101 Firefox/114.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Referer: http://kaiko.getalp.org/fct/rdfdesc/usage.vsp?g=https://www.aop.bg/portal-redirect.php?url=687474703A2F2F67616D6172696B2E6C692F696E6465782E7068703F6F7074696F6E253344636F6D5F636F6E74656E742532367669657725334461727469636C65253236696425334436363A616C69656B626572636963656B253236636174696425334433353A65646562697961742532366974656D69642533443534
+Origin: http://kaiko.getalp.org
+X-Forwarded-For: 181.214.167.204
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

@@ -1,0 +1,9 @@
+GET /fct/rdfdesc/usage.vsp?g=http://cleantalkorg5.ru HTTP/1.1
+Host: localhost:8890
+Accept: */*
+User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+X-Forwarded-For: 2a03:2880:16ff:3::face:b00c
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

@@ -1,0 +1,12 @@
+POST /sparql HTTP/1.1
+Host: kaiko.getalp.org
+Accept: application/sparql-results+xml
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Jersey/3.0.4 (HttpUrlConnection 11.0.7)
+X-Forwarded-For: 128.93.164.34
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Content-Length: 1857
+Connection: Keep-Alive
+
+query=prefix+schema%3A+%3Chttp%3A%2F%2Fschema.org%2F%3E%0Aprefix+sd%3A+%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fsparql-service-description%23%3E%0Aprefix+dcat%3A+%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0Aprefix+void%3A+%3Chttp%3A%2F%2Frdfs.org%2Fns%2Fvoid%23%3E%0Aprefix+dcmitype%3A+%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fdcmitype%2F%3E%0Aprefix+dataid%3A+%3Chttp%3A%2F%2Fdataid.dbpedia.org%2Fns%2Fcore%23%3E%0Aselect+*+%0Awhere+%7B%0A++%7B%7B%7B%7B%7B%3Fkg+%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23type%3E+dcat%3ADataset+.%7D%0A++union+%7B%0A++++%3Fkg+%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23type%3E+void%3ADataset+.%0A++%7D%7D%0A++union+%7B%0A++++%3Fkg+%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23type%3E+dcmitype%3ADataset+.%0A++%7D%7D%0A++union+%7B%0A++++%3Fkg+%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23type%3E+schema%3ADataset+.%0A++%7D%7D%0A++union+%7B%0A++++%3Fkg+%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23type%3E+sd%3ADataset+.%0A++%7D%7D%0A++union+%7B%0A++++%3Fkg+%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23type%3E+dataid%3ADataset+.%0A++%7D%0A++%7B%7B%7B%7B%3Fkg+%3FendpointLink+%3Chttp%3A%2F%2Fkaiko.getalp.org%2Fsparql%3E+.%7D%0A++union+%7B%0A++++%3Fkg+dcat%3AaccessService+%3Fservice+.%0A++++%3Fservice+dcat%3AendpointURL+%3Chttp%3A%2F%2Fkaiko.getalp.org%2Fsparql%3E+.%0A++%7D%7D%0A++union+%7B%0A++++%3Fkg+dcat%3AaccessService+%3Fservice+.%0A++++%3Fservice+sd%3Aendpoint+%3Chttp%3A%2F%2Fkaiko.getalp.org%2Fsparql%3E+.%0A++%7D%7D%0A++union+%7B%0A++++%3Fservice+dcat%3AservesDataset+%3Fkg+.%0A++++%3Fservice+dcat%3AendpointURL+%3Chttp%3A%2F%2Fkaiko.getalp.org%2Fsparql%3E+.%0A++%7D%7D%0A++union+%7B%0A++++%3Fservice+dcat%3AservesDataset+%3Fkg+.%0A++++%3Fservice+sd%3Aendpoint+%3Chttp%3A%2F%2Fkaiko.getalp.org%2Fsparql%3E+.%0A++%7D%0A%7D%0Alimit+1+

@@ -1,0 +1,10 @@
+GET /describe/?url=http%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Feng%2F__ws_1__afr__party__Determiner__1&distinct=1 HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+Accept: */*
+Accept-Encoding: deflate, gzip, br
+X-Forwarded-For: 54.36.149.36
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

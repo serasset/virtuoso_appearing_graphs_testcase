@@ -1,0 +1,14 @@
+GET /sparql?query=define%20sql:describe-mode%20%22CBD%22%20%20DESCRIBE%20%3Chttp://kaiko.getalp.org/dbnary/ita/quadrato__agg__1%3E HTTP/1.1
+Host: kaiko.getalp.org
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+Accept-Language: en
+Referer: http://kaiko.getalp.org/describe?uri=http%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Fita%2Fquadrato__agg__1
+Accept-Encoding: gzip, deflate
+Via: 1.1 sin3-tysearch-crawler-178-36-142 (squid/5.7)
+X-Forwarded-For: 10.179.80.47, 114.119.140.175
+Cache-Control: max-age=0
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

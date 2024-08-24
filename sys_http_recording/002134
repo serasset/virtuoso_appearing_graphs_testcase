@@ -1,0 +1,9 @@
+GET /describe/?distinct=0&graph=http://kaiko.getalp.org/datamodel&graph=http://kaiko.getalp.org/dbnary/eng/__syn_1_tangle__Noun__1&graph=http://kaiko.getalp.org/dbnary/eng/__syn_4_warm&graph=http://kaiko.getalp.org/dbnary/eng/consanguine&graph=http://kaiko.getalp.org/dbnary&graph=http://kaiko.getalp.org/dbnary/eng/__syn_9_mean&graph=http://kaiko.getalp.org/dbnary/pol&graph=http://kaiko.getalp.org/dbnary/lit&graph=http://kaiko.getalp.org/dbnary/lit_exolex&graph=http://kaiko.getalp.org/statistics&graph=http://kaiko.getalp.org/dbnary/swe&graph=http://kaiko.getalp.org/dbnary/eng_exolex&graph=http://kaiko.getalp.org/dbnary/deu&graph=http://kaiko.getalp.org/dbnary/eng&graph=http://kaiko.getalp.org/dbnary/eng/louse__Noun__1&graph=http://kaiko.getalp.org/dbnary/deu/dienen__Verb__1&graph=http://kaiko.getalp.org/dbnary/eng/__syn_4_fire__Verb__1&graph=http://kaiko.getalp.org/dbnary/eng/leopard__Noun__1&graph=http://kaiko.getalp.org/dbnary/eng/produce__Verb__1&graph=http://kaiko.getalp.org/dbnary/deu/Treffen__Substantiv__1&graph=http://kaiko.getalp.org/dbnary/eng/even__Adjective__1&graph=http://kaiko.getalp.org/dbnary/eng/deem&graph=http://kaiko.getalp.org/dbnary/eng/provost__Noun__1&graph=http://kaiko.getalp.org/dbnary/eng/evening&url=http://kaiko.getalp.org/dbnary%23synonym HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot)
+Accept-Encoding: gzip,deflate
+X-Forwarded-For: 23.22.35.162
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

@@ -1,0 +1,13 @@
+GET /fct/rdfdesc/usage.vsp?g=https%3A%2F%2Fwww.degreeinfo.com%2Fproxy.php%3Flink%3Dhttps%253a%252f%252fnurmal.or.id HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:114.0) Gecko/20100101 Firefox/114.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Origin: https://detailingbliss.com
+X-Forwarded-For: 149.71.56.70
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

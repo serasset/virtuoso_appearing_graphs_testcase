@@ -1,0 +1,10 @@
+GET /describe/?url=http%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Fzho%2F__zh_gloss_CYbXIQ--_%C3%83%C2%A4%C3%82%C2%BA%C3%82%C2%BA%C3%83%C2%A5%C3%82%C2%B7%C3%82%C2%A5%C3%83%C2%A6%C3%82%C2%99%C3%82%C2%BA%C3%83%C2%A8%C3%82%C2%83%C3%82%C2%BD__%C3%83%C2%A5%C3%82%C2%90%C3%82%C2%8D%C3%83%C2%A8%C3%82%C2%A9%C3%82%C2%9E__1 HTTP/1.1
+Host: kaiko.getalp.org
+accept: */*
+user-agent: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+accept-encoding: gzip, br, zstd, deflate
+X-Forwarded-For: 18.221.252.153
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

@@ -1,0 +1,14 @@
+GET /fct/rdfdesc/usage.vsp?g=https%3A%2F%2F167.99.75.66%2Ftun%2F1%2F%3Fask%3DPRAGMATIC333 HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 12.5; rv:114.0) Gecko/20100101 Firefox/114.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Referer: http://aginskoe24.ru/redirect?url=http%3A%2F%2Fkaiko.getalp.org%2Ffct%2Frdfdesc%2Fusage.vsp%3Fg%3Dhttps%253A%252F%252F167.99.75.66%252Ftun%252F1%252F%253Fask%253DPRAGMATIC333
+Origin: http://aginskoe24.ru
+X-Forwarded-For: 49.229.89.23
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

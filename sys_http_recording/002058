@@ -1,0 +1,12 @@
+GET /isparql/?query=define%20sql%3Adescribe-mode%20%22SPO%22%20DESCRIBE%20%3Chttp%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Fell%2F%CF%83%CF%85%CE%BD%CE%B1%CF%85%CF%84%CE%BF%CE%BA%CF%81%CE%AC%CF%84%CE%BF%CF%81%CE%B1%CF%82__%CE%BF%CF%85%CF%83%CE%B9%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CF%8C__1%3E&endpoint=/sparql&maxrows=50&timeout=&default-graph-uri=&view=1&raw_iris=true HTTP/1.1
+Host: kaiko.getalp.org
+AMP-Cache-Transform: google;v="1..8"
+Accept: text/html,application/xhtml+xml,application/signed-exchange;v=b3,application/xml;q=0.9,*/*;q=0.8
+From: googlebot(at)googlebot.com
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.119 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Accept-Encoding: gzip, deflate, br
+X-Forwarded-For: 66.249.64.164
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

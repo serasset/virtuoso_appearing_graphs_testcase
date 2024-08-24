@@ -1,0 +1,13 @@
+GET /fct/rdfdesc/usage.vsp?g=https%3A%2F%2Fraychem.org%3A443%2Fbitrix%2Frk.php%3Fgoto%3Dhttps%3A%2F%2Fwww.headlinesworldnews.com HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:114.0) Gecko/20100101 Firefox/114.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Origin: https://strzelcekrajenskie.praca.gov.pl
+X-Forwarded-For: 134.255.232.36
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

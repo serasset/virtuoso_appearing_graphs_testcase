@@ -1,0 +1,17 @@
+GET /fct/rdfdesc/usage.vsp?g=http%3A%2F%2Fobservatoire.francophonie.org%2F%3Fessb-image-share%3Dyes%26url%3Dhttp%253A%252F%252Fdoodstream.one%26img%3Dobservatoire.francophonie.org%2Fwp-content%2Fuploads%2F2018%2F10%2Ffilm_home.jpg%26title%3DOrganisation%2520internationale%2520de%2520la%2520Francophonie%2520%25E2%2580%2593%2520Langue%2520fran%25C3%25A7aise%2520et%2520diversit%25C3%25A9%2520linguistique%26desc%3D HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Origin: https://reinigungsforum.de
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+sec-ch-ua-mobile: ?0
+sec-gpc: 1
+sec-ch-ua-platform: "Windows"
+X-Forwarded-For: 196.242.47.18
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

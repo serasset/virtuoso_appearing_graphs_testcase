@@ -1,0 +1,9 @@
+GET /describe/?url=http%3A%2F%2Fkaiko.getalp.org%2Fdbnary/eng/__hyper_6_cat HTTP/1.1
+Host: kaiko.getalp.org
+Accept: */*
+User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+X-Forwarded-For: 2a03:2880:2ff:e::face:b00c
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

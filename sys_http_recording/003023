@@ -1,0 +1,13 @@
+GET /fct/rdfdesc/usage.vsp?g=http%3A%2F%2Fwww.sogivorsjudo.com%2Fcontent%2Findex.php%3Foption%3Dcom_phocaguestbook%26view%3Dphocaguestbook%26id%3D1 HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:114.0) Gecko/20100101 Firefox/114.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Origin: https://susport.ru
+X-Forwarded-For: 149.71.56.69
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

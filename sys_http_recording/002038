@@ -1,0 +1,10 @@
+GET /describe/?distinct=0&url=http%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Fcat%2F__tr_dan_1_article__Nom__1 HTTP/1.1
+Host: kaiko.getalp.org
+accept: */*
+user-agent: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+accept-encoding: gzip, br, zstd, deflate
+X-Forwarded-For: 3.144.104.233
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

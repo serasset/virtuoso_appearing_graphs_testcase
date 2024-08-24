@@ -1,0 +1,9 @@
+GET /fct/rdfdesc/usage.vsp?g=http%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Fnor%2Fsynaløyfe__Substantiv__1 HTTP/1.1
+Host: kaiko.getalp.org
+Accept: */*
+User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+X-Forwarded-For: 2a03:2880:f800:9::
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

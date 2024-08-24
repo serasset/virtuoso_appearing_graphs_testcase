@@ -1,0 +1,13 @@
+GET /fct/rdfdesc/usage.vsp?g=https%3A%2F%2Fwww.google.cat%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3Dsyndicationapp%26esrc%3Ds%26source%3Dweb%26url%3Dhttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyPLe29Xbugs HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:114.0) Gecko/20100101 Firefox/114.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Origin: https://semanticweb.cs.vu.nl
+X-Forwarded-For: 188.213.31.171
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

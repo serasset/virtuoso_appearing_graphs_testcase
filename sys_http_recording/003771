@@ -1,0 +1,11 @@
+GET /fct/rdfdesc/usage.vsp?g=http://inginformatica.uniroma2.it/?URL=http://ooosezon.ru HTTP/1.1
+Host: kaiko.getalp.org
+oai-host-hash: 441107133
+Accept: */*
+Accept-Encoding: gzip, br, deflate
+User-Agent: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.0; +https://openai.com/gptbot)
+X-Forwarded-For: 20.171.206.183
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

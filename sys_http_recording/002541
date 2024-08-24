@@ -1,0 +1,10 @@
+GET /describe/?url=http%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Fdeu%2F__de_gloss_BkTrig--_K%C3%A4ufer__Substantiv__1 HTTP/1.1
+Host: kaiko.getalp.org
+accept: */*
+user-agent: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+accept-encoding: gzip, br, zstd, deflate
+X-Forwarded-For: 3.133.110.212
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

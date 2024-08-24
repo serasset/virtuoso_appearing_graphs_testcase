@@ -1,0 +1,12 @@
+GET /fct/rdfdesc/usage.vsp?g=http://cleantalkorg5.ru HTTP/1.1
+Host: kaiko.getalp.org
+Range: bytes=0-32768
+User-Agent: Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)
+Accept: */*
+Accept-Encoding: gzip,deflate
+Cache-Control: max-age=259200
+X-Forwarded-For: 44.195.26.26
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

@@ -1,0 +1,18 @@
+GET /fct/rdfdesc/usage.vsp?g=https%3A%2F%2Fufa-electro.ru%2Fbitrix%2Fredirect.php%3Fgoto%3Dhttps%3A%2F%2Fgitlab.freedesktop.org%2Frubbofelkins HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/89.0.4447.51
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Referer: http://toyota-aqua.ru/proxy.php?link=http%3A%2F%2Fkaiko.getalp.org%2Ffct%2Frdfdesc%2Fusage.vsp%3Fg%3Dhttps%253A%252F%252Fufa-electro.ru%252Fbitrix%252Fredirect.php%253Fgoto%253Dhttps%253A%252F%252Fgitlab.freedesktop.org%252Frubbofelkins
+Origin: http://toyota-aqua.ru
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+sec-ch-ua-mobile: ?0
+sec-gpc: 1
+sec-ch-ua-platform: "Linux"
+X-Forwarded-For: 196.51.137.101
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

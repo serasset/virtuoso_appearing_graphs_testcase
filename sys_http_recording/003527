@@ -1,0 +1,9 @@
+GET /sparql HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (compatible; Google-Apps-Script; beanserver; +https://script.google.com; id: UAEmdDd8PECQ0y-paCY18hDB6qSketNGGxQ)
+Accept-Encoding: gzip, deflate, br
+X-Forwarded-For: 107.178.224.70
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

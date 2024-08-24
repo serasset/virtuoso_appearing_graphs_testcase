@@ -1,0 +1,17 @@
+GET /fct/rdfdesc/usage.vsp?g=https%3A%2F%2Fpresident.lru.ac.th%2Fth%2Fgo%2F%3Fruay%3D%25E0%25B9%2580%25E0%25B8%25A7%25E0%25B9%2587%25E0%25B8%259A+%25E0%25B8%2595%25E0%25B8%25A3%25E0%25B8%2587+%25E0%25B9%2584%25E0%25B8%25A1%25E0%25B9%2588+%25E0%25B8%259C%25E0%25B9%2588%25E0%25B8%25B2%25E0%25B8%2599+%25E0%25B9%2580%25E0%25B8%25AD%25E0%25B9%2580%25E0%25B8%25A2%25E0%25B9%2588%25E0%25B8%2599%25E0%25B8%2595%25E0%25B9%258C+master HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/89.0.4447.51
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Origin: https://vietav.vn
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+sec-ch-ua-mobile: ?0
+sec-gpc: 1
+sec-ch-ua-platform: "macOS"
+X-Forwarded-For: 103.148.111.32
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

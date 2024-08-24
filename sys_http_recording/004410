@@ -1,0 +1,10 @@
+GET /sparql?query=define+sql%3Adescribe-mode+%22CBD%22++DESCRIBE+%3Chttp%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Feng%2F__tr_abk_1_beer__Noun__1%3E HTTP/1.1
+Host: kaiko.getalp.org
+accept: */*
+user-agent: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+accept-encoding: gzip, br, zstd, deflate
+X-Forwarded-For: 18.217.123.165
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

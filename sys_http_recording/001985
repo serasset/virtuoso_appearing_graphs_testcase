@@ -1,0 +1,13 @@
+GET /fct/rdfdesc/usage.vsp?g=http%3A%2F%2Fwww.covcap.com%2F__media__%2Fjs%2Fnetsoltrademark.php%3Fd%3Dtest-gsa.com HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:114.0) Gecko/20100101 Firefox/114.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Origin: https://ftv.msu.ru
+X-Forwarded-For: 139.99.52.201
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

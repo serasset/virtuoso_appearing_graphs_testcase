@@ -1,0 +1,10 @@
+GET /fct/rdfdesc/usage.vsp?g=http%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Fbul%2F%C3%91%C2%81%C3%90%C2%BF%C3%91%C2%83%C3%90%C2%BA%C3%90%C2%B2%C3%90%C2%B0%C3%90%C2%BC&tp=1 HTTP/1.1
+Host: kaiko.getalp.org
+accept: */*
+user-agent: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+accept-encoding: gzip, br, zstd, deflate
+X-Forwarded-For: 3.128.30.116
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

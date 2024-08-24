@@ -1,0 +1,10 @@
+GET /fct/rdfdesc/usage.vsp?g=http%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Fzho%2F__tr_fry_1_%E7%9A%87%E5%90%8E__%E5%90%8D%E8%A9%9E__1&graph=http%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Fzho HTTP/1.1
+Host: kaiko.getalp.org
+accept: */*
+user-agent: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+accept-encoding: gzip, br, zstd, deflate
+X-Forwarded-For: 3.12.74.179
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

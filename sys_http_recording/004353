@@ -1,0 +1,11 @@
+GET /describe/?url=http%3A%2F%2Fkaiko.getalp.org%2Fdbnary/deu/__tr_fin_1_f%C3%BCnfzigste__Adjektiv__1 HTTP/1.1
+Host: kaiko.getalp.org
+accept: */*
+user-agent: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+accept-encoding: gzip, br, zstd, deflate
+referer: http://kaiko.getalp.org/dbnary/deu/__tr_fin_1_f%C3%BCnfzigste__Adjektiv__1
+X-Forwarded-For: 18.118.227.16
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

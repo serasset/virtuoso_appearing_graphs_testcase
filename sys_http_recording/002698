@@ -1,0 +1,12 @@
+GET /describe/?url=http%3A%2F%2Fkaiko.getalp.org%2Fdbnary/eng/osje%C4%87aj HTTP/1.1
+Host: kaiko.getalp.org
+AMP-Cache-Transform: google;v="1..8"
+Accept: text/html,application/xhtml+xml,application/signed-exchange;v=b3,application/xml;q=0.9,*/*;q=0.8
+From: googlebot(at)googlebot.com
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.119 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Accept-Encoding: gzip, deflate, br
+X-Forwarded-For: 66.249.64.164
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

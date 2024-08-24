@@ -1,0 +1,10 @@
+GET /sparql?output=application%2Fmicrodata%2Bjson&query=define+sql%3Adescribe-mode+%22CBD%22++DESCRIBE+%3Chttp%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Fbul%2F%C3%83%C2%90%C3%82%C2%BF%C3%83%C2%90%C3%82%C2%BB%C3%83%C2%90%C3%82%C2%B0%C3%83%C2%91%C3%82%C2%81%C3%83%C2%91%C3%82%C2%82__%C3%83%C2%90%C3%82%C2%A1%C3%83%C2%91%C3%82%C2%8A%C3%83%C2%91%C3%82%C2%89%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%91%C3%82%C2%81%C3%83%C2%91%C3%82%C2%82%C3%83%C2%90%C3%82%C2%B2%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%91%C3%82%C2%82%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%BB%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%BE_%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%B0%C3%83%C2%91%C3%82%C2%80%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%91%C3%82%C2%86%C3%83%C2%90%C3%82%C2%B0%C3%83%C2%91%C3%82%C2%82%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%BB%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%BE_%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%B5__1%3E HTTP/1.1
+Host: kaiko.getalp.org
+accept: */*
+user-agent: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+accept-encoding: gzip, br, zstd, deflate
+X-Forwarded-For: 18.118.93.94
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

@@ -1,0 +1,17 @@
+GET /fct/rdfdesc/usage.vsp?g=https%3A%2F%2Fserve.mxapis.com%2Fserve%2Flog%2Fclick%3Fwebsite_id%3D2842%26creative_id%3D35460%26campaign_id%3D23648%26uid%3D381de4129704e281791366ba3e8dda01%26t%3D1510012800%26redirect%3Dhttp%253a%252f%252fsites.google.com%252Fview%252Fsell-bulk-portfolioyvb%252Fhome HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Origin: https://ihave.su
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+sec-ch-ua-mobile: ?0
+sec-gpc: 1
+sec-ch-ua-platform: "Windows"
+X-Forwarded-For: 161.129.136.14
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

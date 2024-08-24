@@ -1,0 +1,9 @@
+GET /sparql?query=define%20sql%3Adescribe-mode%20%22CBD%22%20%20DESCRIBE%20%3Chttp%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Feng%2Fdemoralisation__Noun__1%3E&format=text%2Fturtle HTTP/1.1
+Host: kaiko.getalp.org
+Accept: text/turtle,application/n-triples;q=0.9,application/ld+json;q=0.8,application/rdf+xml;q=0.7,*/*;q=0.5
+User-Agent: Apache-Jena-ARQ/2.13.0
+X-Forwarded-For: 217.91.168.158
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

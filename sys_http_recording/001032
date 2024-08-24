@@ -1,0 +1,9 @@
+GET /fct/rdfdesc/usage.vsp?g=http%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Ffin%2Ftupakansavuinen__Adjektiivi__1 HTTP/1.1
+Host: kaiko.getalp.org
+Accept: */*
+User-Agent: meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)
+X-Forwarded-For: 2a03:2880:f800:f::
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

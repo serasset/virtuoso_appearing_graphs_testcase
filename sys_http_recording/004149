@@ -1,0 +1,10 @@
+GET /fct/rdfdesc/usage.vsp?g=http%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Fdeu%2F__wf_H-cI-w--_elffach__Adjektiv__1&graph=http%3A%2F%2Fkaiko.getalp.org%2Fdbnary%2Fdeu HTTP/1.1
+Host: localhost:8890
+accept: */*
+user-agent: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)
+accept-encoding: gzip, br, zstd, deflate
+X-Forwarded-For: 3.14.255.151
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

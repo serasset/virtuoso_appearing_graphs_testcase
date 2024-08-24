@@ -1,0 +1,18 @@
+GET /fct/rdfdesc/usage.vsp?g=https%3A%2F%2Fwww.visitchattanooga.com%2Fplugins%2Fcrm%2Fcount%2F%3Fkey%3D4_800%26type%3Dclient%26val%3DeyJrZXkiOiI0XzgwMCIsInJlZGlyZWN0IjoiaHR0cHM6Ly9zdmVjaGlubi5ydTo0NDMvYml0cml4L3JlZGlyZWN0LnBocD9nb3RvPWh0dHBzOi8veG4tLTkwYWlubjBhYy54bi0tcDFhaS9iaXRyaXgvcmVkaXJlY3QucGhwP2dvdG89aHR0cHM6Ly95b3V0dS5iZS9oWTViYWZhNVNjTSJ9 HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Referer: http://rostovexp.ru/bitrix/redirect.php?goto=http%3A%2F%2Fkaiko.getalp.org%2Ffct%2Frdfdesc%2Fusage.vsp%3Fg%3Dhttps%253A%252F%252Fwww.visitchattanooga.com%252Fplugins%252Fcrm%252Fcount%252F%253Fkey%253D4_800%2526type%253Dclient%2526val%253DeyJrZXkiOiI0XzgwMCIsInJlZGlyZWN0IjoiaHR0cHM6Ly9zdmVjaGlubi5ydTo0NDMvYml0cml4L3JlZGlyZWN0LnBocD9nb3RvPWh0dHBzOi8veG4tLTkwYWlubjBhYy54bi0tcDFhaS9iaXRyaXgvcmVkaXJlY3QucGhwP2dvdG89aHR0cHM6Ly95b3V0dS5iZS9oWTViYWZhNVNjTSJ9
+Origin: http://rostovexp.ru
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+sec-ch-ua-mobile: ?0
+sec-gpc: 1
+sec-ch-ua-platform: "Windows"
+X-Forwarded-For: 75.237.215.19
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+

@@ -1,0 +1,18 @@
+GET /describe/?url=https://feeds.backpackingnorth.com/ HTTP/1.1
+Host: kaiko.getalp.org
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+DNT: 1
+Referer: http://reddiamondvulcancup.com/ttmanual.aspx?type=d&key=689&helponly=y&return=http%3A%2F%2Fkaiko.getalp.org%2Fdescribe%2F%3Furl%3Dhttps%3A%2F%2Ffeeds.backpackingnorth.com%2F
+Origin: http://reddiamondvulcancup.com
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+sec-gpc: 1
+sec-ch-ua-platform: "Linux"
+X-Forwarded-For: 121.184.19.115
+X-Forwarded-Host: kaiko.getalp.org
+X-Forwarded-Server: kaiko.getalp.org
+Connection: Keep-Alive
+
