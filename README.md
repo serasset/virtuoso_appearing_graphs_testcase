@@ -14,7 +14,7 @@ You may remove some language and models to reduce the DB size and loading time..
 ./start.sh
 ```
 
-Your http server will be bound to port 8998 (so that it won't conflict with an eventual existing server), to ease debugging, you can bind the 8998 port to 8890 on yur client machine using ssh.
+Your http server will be bound to port 8998 (so that it won't conflict with an eventual existing server), to ease debugging, you can bind the 8998 port to 8890 on your client machine using ssh.
 
 
 
