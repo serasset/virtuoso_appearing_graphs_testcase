@@ -18,6 +18,13 @@ You may remove some language and models to reduce the DB size and loading time..
 Your http server will be bound to port 8998 (so that it won't conflict with an eventual existing server), to ease debugging, you can bind the 8998 port to 8890 on your client machine using ssh.
 
 4. put some pressure to the server by replaying real http connection received in deployment
+```bash
+./replay.sh
+## Or, i you want to put more pressure...
+./replay.sh & ./replay.sh & ./replay.sh & ./replay.sh &
+```
+
+Note the bug is not deterministic, so sometime you may have to stress a little bit more the server by iterating the replay several times in parallel (but I noticed an erroneous graph appearing even with only one replay process. 
 
  
 
