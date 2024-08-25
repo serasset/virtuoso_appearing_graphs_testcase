@@ -17,13 +17,25 @@ You may remove some language and models to reduce the DB size and loading time..
 
 Your http server will be bound to port 8998 (so that it won't conflict with an eventual existing server), to ease debugging, you can bind the 8998 port to 8890 on your client machine using ssh.
 
-4. put some pressure to the server by replaying real http connection received in deployment
+4. Check the number of graphs
+```bash
+isql localhost:2222 dba
+```
+then
+```sql
+SPARQL SELECT ?g WHERE { GRAPH ?g { ?s ?p ?o } } GROUP BY ?g ORDER BY ?g;
+```
+
+   
+5. put some pressure to the server by replaying real http connection received in deployment
 ```bash
 ./replay.sh
 ## Or, i you want to put more pressure...
 ./replay.sh & ./replay.sh & ./replay.sh & ./replay.sh &
 ```
 
+6. Check the number of graphs (with the same sparql query)
+   
 Note the bug is not deterministic, so sometime you may have to stress a little bit more the server by iterating the replay several times in parallel (but I noticed an erroneous graph appearing even with only one replay process. 
 
  
