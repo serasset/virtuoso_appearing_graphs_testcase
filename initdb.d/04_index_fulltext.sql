@@ -1,7 +1,7 @@
-log_message ("=== Stats on loaded graphs ") ;
+log_message ('=== Stats on loaded graphs ') ;
 sparql SELECT COUNT(*) WHERE { ?s ?p ?o } ;
 sparql SELECT ?g COUNT(*) { GRAPH ?g {?s ?p ?o.} } GROUP BY ?g ORDER BY DESC 2;
-log_message ("=== Beginning full text indexing on loaded graphs") ;
+log_message ('=== Beginning full text indexing on loaded graphs') ;
 -- Build Full Text Indexes by running the following commands using the Virtuoso isql program
 -- With this rule added, all text in all graphs will be indexed...
 echoln "--- Setting up indexing" ;
@@ -16,4 +16,4 @@ s_rank();
 checkpoint;
 commit WORK;
 checkpoint;
-log_message ("=== Indexing done                                    ===") ;
+log_message ('=== Indexing done                                    ===') ;

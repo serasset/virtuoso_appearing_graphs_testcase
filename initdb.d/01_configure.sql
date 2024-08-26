@@ -286,7 +286,8 @@ DB.DBA.XML_SET_NS_DECL ('dbnstats', 'http://kaiko.getalp.org/dbnary/statistics/'
 
 -- Allow for federated queries through DBnary end point
 GRANT "SPARQL_LOAD_SERVICE_DATA" to "SPARQL";
-GRANT "SPARQL_SPONGE" to "SPARQL";
+-- GRANT "SPARQL_SPONGE" to "SPARQL";
+REVOKE "SPARQL_SPONGE" to "SPARQL";
 GRANT "SPARQL_SELECT_FED" TO "SPARQL";
 -- Temporary fix for virtuoso bug #1094
 DB.DBA.RDF_DEFAULT_USER_PERMS_SET ('nobody', 7);

@@ -6,6 +6,8 @@ DOCKER_CONTENT_TRUST=false docker run --name dbnary_test_db \
     --interactive \
     --tty \
     --env DBA_PASSWORD=mysecret \
+    --env DBNARY_LANGUAGES=${DBNARY_LANGUAGES} \
+    --env DBNARY_MODELS=${DBNARY_MODELS} \
     --env VIRT_PARAMETERS_NUMBEROFBUFFERS=680000\
     --env VIRT_PARAMETERS_MaxDirtyBuffers=500000\
     --env VIRT_PARAMETERS_DirsAllowed='., ../vad, /usr/share/proj, /data'\
